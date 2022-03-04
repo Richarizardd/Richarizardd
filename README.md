@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Immediate response to minor ```issues``` may not be available.
+- For urgent / blocking ```issues```, please email at richardchen@g.harvard.edu and I will do my best to accomodate all requests.
+
+
 <!--
 **Richarizardd/Richarizardd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
