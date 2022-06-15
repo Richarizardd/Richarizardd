@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello :^)
+- Working on making the CPATH advances as accessible, reproducible, and transparent as possible 🤗
 - Immediate response to minor ```issues``` may not be available.
 - For urgent / blocking ```issues```, please email at richardchen@g.harvard.edu and I will do my best to accomodate all requests.
 
